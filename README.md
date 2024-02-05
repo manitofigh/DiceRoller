@@ -1,1 +1,1 @@
-Open index.html and roll the dice.
+Open diecHome.html and roll the dice.
